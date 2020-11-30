@@ -6,3 +6,5 @@ Requires an API Key from [Service Titan](https://www.servicetitan.com/) along wi
 Input a job number into the text field, click "Generate", and the raw JSON data will be posted to the main window.
 
 You can set the API Key, Username and Password from [here](https://github.com/starhound/ServiceTitan_Inspector/blob/master/ST_Inspector/Form1.cs#L19).
+
+Useful for testing & debugging applications using the Service Titan API.
